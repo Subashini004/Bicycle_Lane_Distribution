@@ -1,8 +1,3 @@
-# Bicycle_Lane_Distribution
-
-## 📎 Try it Live in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Subashini004/Bicycle_Lane_Distribution/blob/main/Bicycle_Lane_Distribution.ipynb)
-
 # 🚴‍♂️ Bicycle Lane Distribution and Accident Analysis 📊
 
 This project explores the distribution of bicycle lanes using **OpenStreetMap (OSM)** data and analyzes road accident patterns to inform better planning of safe cycling infrastructure.
@@ -44,5 +39,11 @@ This dataset includes accident details such as:
 - Pedestrian movement
 - Light and weather conditions
 - Junction types
+
+---
+
+---
+### 📎 Try it Live in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Subashini004/Bicycle_Lane_Distribution/blob/main/Bicycle_Lane_Distribution.ipynb)
 
 ---
